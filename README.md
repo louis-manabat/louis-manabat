@@ -2,7 +2,7 @@
 
 #### Connect with me
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"><a href="(https://www.linkedin.com/in/louismanabat/)">LinkedIn</a>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"><a href="https://www.linkedin.com/in/louismanabat/">LinkedIn</a>
 
 [![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/louis-manabat/github-readme-stats)
 
