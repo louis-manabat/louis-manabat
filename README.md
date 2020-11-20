@@ -4,7 +4,7 @@
 
 ![<img align="left" alt="Louis Manabat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/louismanabat/)
 
-![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/louis-manabat/github-readme-stats)
+![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)(https://github.com/louis-manabat/github-readme-stats)
 
 > Forked from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats "anuraghazra/github-readme-stats")
 
