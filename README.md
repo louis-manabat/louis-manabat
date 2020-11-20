@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icon=true)](https://github.com/louis-manabat/github-readme-stats)
+[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/louis-manabat/github-readme-stats)
 
 
 <!-- <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" /> -->
