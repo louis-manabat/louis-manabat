@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/louis-manabat/github-readme-stats">
   <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/louis-manabat">
   <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact" />
 </a>
 
