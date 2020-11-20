@@ -4,7 +4,7 @@
 <table border="0px" cellspacing="0">
   <tr>
      <td align="center">
-       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">
+       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" unselectable="on">
     </td>
     <td><a href="https://www.linkedin.com/in/louismanabat/">LinkedIn</a></td>
   </tr>
