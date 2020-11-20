@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/louis-manabat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat>
 </a>
 <a href="https://github.com/louis-manabat">
   <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact" />
