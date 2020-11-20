@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Connect with me
-<table border="0">
+<table border="1px" cellspacing="0" cellpadding="3">
   <tr>
      <td align="center">
        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32" height="32">
