@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true" />
+[![Top Langs](https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat)](https://github.com/louis-manabat/github-readme-stats)
+
 
 <!-- <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" /> -->
 
