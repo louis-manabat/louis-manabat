@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <details>
-  <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat>
+  <img align="left" src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat>
 </details>
 <details>
-  <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact" />
+  <img align="right" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact" />
 </details>
 
 <!--
