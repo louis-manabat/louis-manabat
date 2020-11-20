@@ -4,7 +4,7 @@
   <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true" />
 </details>
 <details>
-  <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&show_icons=true" />
+  <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark" />
 </details>
 
 <!--
