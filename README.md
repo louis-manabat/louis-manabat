@@ -2,7 +2,7 @@
 
 <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true" />
 
-<img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" />
+<!-- <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" /> -->
 
 <!--
 **louis-manabat/louis-manabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
