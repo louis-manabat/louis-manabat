@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat)](https://github.com/louis-manabat/github-readme-stats)
+[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark)](https://github.com/louis-manabat/github-readme-stats)
 
 
 <!-- <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" /> -->
