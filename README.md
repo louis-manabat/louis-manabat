@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact" />
 </a>
 
 <!--
