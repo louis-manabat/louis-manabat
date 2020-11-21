@@ -13,8 +13,8 @@
 <br>
 
 <table>
+  <h2> My Stats </h2>
   <tr>
-    <h2> My Stats </h2>
     <td>
       <img src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
     </td>
