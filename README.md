@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi, my name is Louis 👋
+
+<br>
 
 ## Connect with me
 <table border="0px" cellspacing="0">
