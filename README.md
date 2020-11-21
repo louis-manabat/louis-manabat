@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-#### Connect with me
+## Connect with me
 <table border="0px" cellspacing="0">
   <tr>
      <td align="center">
@@ -10,14 +10,26 @@
   </tr>
 </table>
       
+<br>
 
-[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues)](https://github.com/louis-manabat/github-readme-stats)
+<table>
+  <tr>
+    <h2> My Stats </h2>
+    <td>
+      <img src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
+    </td>
+  <tr>
+<table>
 
-[![Louis' wakatime stats](https://github-readme-stats.louis-manabat.vercel.app/api/wakatime?username=louismanabat&theme=dark)](https://github.com/louis-manabat/github-readme-stats)
+<br>
 
-[![Louis' Top Lang stats](https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/louis-manabat/github-readme-stats)
+## What I'm currently working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=louis-manabat&repo=MaaBank-V3&theme=dark&show_owner=true)](https://github.com/louis-manabat/MaaBank-V3)
 
-> Forked from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats "anuraghazra/github-readme-stats")
+> Stats cards forked from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats "github-readme-stats")
 
 
 
