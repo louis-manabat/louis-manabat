@@ -15,7 +15,7 @@
 
 > Forked from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats "anuraghazra/github-readme-stats")
 
-<!-- <img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" /> -->
+<img align="centre" src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&count_private=true" />
 
 <!--
 **louis-manabat/louis-manabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
