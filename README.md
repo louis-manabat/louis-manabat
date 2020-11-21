@@ -1,8 +1,8 @@
-# Hi, my name is Louis 👋
+<h1>Hi, my name is Louis 👋 </h1>
 
 <br>
 
-## Connect with me
+<h2>Connect with me</h2>
 <table border="0px" cellspacing="0">
   <tr>
      <td align="center">
@@ -14,7 +14,7 @@
       
 <br>
 
-<h2> My Stats </h2>
+<h2>My Stats</h2>
 <table>
   <tr>
     <td>
@@ -28,10 +28,16 @@
 
 <br>
 
-## What I'm currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=louis-manabat&repo=MaaBank-V3&theme=dark&show_owner=true)](https://github.com/louis-manabat/MaaBank-V3)
+<h2>What I'm currently working on</h2>
+<span>
+  <a href="https://github.com/louis-manabat/MaaBank-V3" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=louis-manabat&repo=MaaBank-V3&theme=dark&show_owner=true">
+  </a>
+</span>
 
-> Stats cards forked from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats "github-readme-stats")
+<br><br>
+
+<blockquote> Stats cards forked from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a></blockquote>
 
 
 
