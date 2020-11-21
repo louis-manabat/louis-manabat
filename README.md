@@ -11,7 +11,7 @@
 </table>
       
 
-[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/louis-manabat/github-readme-stats)
+[![Louis' github stats](https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues)](https://github.com/louis-manabat/github-readme-stats)
 
 [![Louis' Top Lang stats](https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/louis-manabat/github-readme-stats)
 
