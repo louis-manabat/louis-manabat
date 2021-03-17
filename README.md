@@ -18,10 +18,10 @@
 <table border="0px" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.louis-manabat.vercel.app/api?username=louis-manabat&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
+      <img src="https://github-readme-stats.s3719633.vercel.app/api?username=louis-manabat&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
     </td>
     <td>
-      <img src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
+      <img src="https://github-readme-stats.s3719633.vercel.app/api/top-langs/?username=s3719633&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
     </td>
   <tr>
 <table>
@@ -30,8 +30,8 @@
 
 <h2>What I'm currently working on</h2>
 <span>
-  <a href="https://github.com/louis-manabat/MaaBank-V3" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=louis-manabat&repo=MaaBank-V3&theme=dark&show_owner=true">
+  <a href="https://github.com/s3719633/MaaBank-V3" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=s3719633&repo=MaaBank-V3&theme=dark&show_owner=true">
   </a>
 </span>
 
