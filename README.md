@@ -29,11 +29,11 @@
 <br>
 
 <h2>What I'm currently working on</h2>
-<span>
+<!-- <span>
   <a href="https://github.com/s3719633/MaaBank-V3" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=s3719633&repo=MaaBank-V3&theme=dark&show_owner=true">
   </a>
-</span>
+</span> -->
 
 <br><br>
 
