@@ -1,7 +1,4 @@
 <h1>Hi, my name is Louis 👋 </h1>
-
-<br>
-
 <h2>Connect with me</h2>
 <table border="0px" cellspacing="0">
   <tr>
@@ -19,15 +16,15 @@
   <table border="0px" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.louis-manabat.vercel.app/api?username=s3719633&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
+        <img src="https://github-readme-stats.louis-manabat.vercel.app/api?username=s3719633&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
       </td>
       <td>
         <img src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=s3719633&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
       </td>
-    <tr>
-  <table>
+    </tr>
+  </table>
  </span>
-
+      
 <br>
 
 <h2>What I'm currently working on</h2>
