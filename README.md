@@ -18,10 +18,10 @@
 <table border="0px" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.louis-manabat.vercel.app/api?username=s3719633&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
+      <img src="https://github-readme-stats.s3719633.vercel.app/api?username=s3719633&hide_title=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues">
     </td>
     <td>
-      <img src="https://github-readme-stats.louis-manabat.vercel.app/api/top-langs/?username=s3719633&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
+      <img src="https://github-readme-stats.s3719633.vercel.app/api/top-langs/?username=s3719633&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
     </td>
   <tr>
 <table>
