@@ -29,8 +29,8 @@
 
 <h2>What I'm currently working on</h2>
 <span>
-  <a href="https://github.com/louis-manabat/CICD-Simple_WebApp" target="_blank">
-  <img src="https://github-readme-stats-louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=CICD-Simple_WebApp&theme=dark&show_owner=true">
+  <a href="https://github.com/louis-manabat/CICD-Simple_ItineraryCreator" target="_blank">
+  <img src="https://github-readme-stats-louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=CICD-Simple_ItineraryCreator&theme=dark&show_owner=true">
   </a>
 </span>
 
