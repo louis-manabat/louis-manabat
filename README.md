@@ -1,5 +1,6 @@
 <h1>Hi, my name is Louis 👋 </h1>
 <h2>Connect with me</h2>
+
 <table border="0px" cellspacing="0">
   <tr>
      <td align="center">
@@ -19,7 +20,7 @@
         <img src="https://github-readme-stats-louis-manabat.vercel.app/api?username=louis-manabat&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
       </td>
       <td>
-        <img src="https://github-readme-stats-louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&theme=dark&show_icons=true&include_all_commits=true&count_private=true">
+        <img src="https://github-readme-stats-louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true">
       </td>
     </tr>
   </table>
