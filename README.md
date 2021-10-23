@@ -17,10 +17,10 @@
   <table border="0px" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-louis-manabat.vercel.app/api?username=louis-manabat&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&hide=stars,issues">
+        <img src="https://github-readme-stats-louis-manabat.vercel.app/api?username=louis-manabat&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues">
       </td>
       <td>
-        <img src="https://github-readme-stats-louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true">
+        <img src="https://github-readme-stats-louis-manabat.vercel.app/api/top-langs/?username=louis-manabat&layout=compact&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true&count_private=true">
       </td>
     </tr>
   </table>
@@ -30,9 +30,9 @@
 
 <h2>What I'm currently working on</h2>
 <span>
-  <a href="https://github.com/louis-manabat/CICD-Travel-Itinerary-App" target="_blank">
+<!--   <a href="https://github.com/louis-manabat/CICD-Travel-Itinerary-App" target="_blank">
   <img src="https://github-readme-stats-louis-manabat.vercel.app/api/pin/?username=louis-manabat&repo=CICD-Travel-Itinerary-App&theme=dark&show_owner=true">
-  </a>
+  </a> -->
 </span>
 
 <br><br>
