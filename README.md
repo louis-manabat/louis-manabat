@@ -12,6 +12,7 @@
 ### Certifications 🌟
 [<img src="images/AZ-900.png" width="80"/>](images/AZ-900.png)
 [<img src="images/CLF-C01.png" width="80"/>](images/CLF-C01.png)
+[<img src="images/DP-900.png" width="80"/>](images/DP-900.png)
 
 ### My various links 🔗
 <a href="https://www.linkedin.com/in/louismanabat/">
