@@ -16,6 +16,7 @@
 [<img src="images/CLF-C01.png" width="80"/>](images/CLF-C01.png)
 [<img src="images/DP-900.png" width="80"/>](images/DP-900.png)
 [<img src="images/AI-900.png" width="80"/>](images/AI-900.png)
+[<img src="images/HCTA0-002.png" width="80"/>](images/HCTA0-002.png)
 
 ### My various links 🔗
 <a href="https://www.linkedin.com/in/louismanabat/">
