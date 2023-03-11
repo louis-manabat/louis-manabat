@@ -1,7 +1,7 @@
 ## Hi, my name is Louis 👋
 - My pronouns are he/him <img src="https://github.githubassets.com/images/icons/emoji/unicode/2642.png?v8" width="20">
-- I currently work as a Tech Consulting Analyst @ Accenture
-  - My current role is a Cloud Engineer. I do Azure resource deployments via Azure Devops CI/CD pipelines and ARM templates for IaC
+- I currently work as an Application Development Analyst/Tech Consulting Analyst @ Accenture
+  - My current role is a DevOps/Infrastructure Engineer. I supporting the enablement of creating/uplifting Terraform modules for internal consumer consumption on the Azure cloud platform
 
 ### Tools & Technologies 💻
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white")
@@ -41,9 +41,17 @@
  </span>
 
 ### What I'm currently working on 🛠
-<span>
-  Working on a personal website (slow progression 😂)
-</span>
+- Working on a landing page (similar to Linktree):
+  - Develop the mobile page (done)
+  - Develop the laptop page
+  - Develop the desktop page
+  - Develop the IaC with Terraform that will deployed on Azure:
+    - Will use a blob remote back-end
+    - Will IaC will be used to run the landing page on
+  - Automate the following deployments:
+    - Terraform infrastructure deployment
+    - Publishing of landing page
+- Working on a personal website (slow progression and on hold😂)
 
 <br><br>
 
