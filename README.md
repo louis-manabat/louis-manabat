@@ -55,7 +55,6 @@
 
 <br><br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=louis-manabat)
 > Stats cards forked from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>
 
 
